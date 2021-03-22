@@ -6,7 +6,7 @@ can be used to choose an optimal cutoff for a classification model.
 I’m currently learning MySQL, R Shiny, and Python to expand my data analysis toolkit and make sure that the end of my formal 
 schooling doesn't mark the end of my education.
 
-Contact me using ___ if you have a question or comment!
+Contact me if you have a question or comment!
 
 <!---
 brittany-russell/brittany-russell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
